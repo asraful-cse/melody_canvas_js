@@ -10,7 +10,7 @@ let MOUSE = {
     isDown: false
 };
 let HOLD_DURATION = 300;
-
+// fs
 let MOVING_NOTES = [];
 let SPEED = 0.005;
 
